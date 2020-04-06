@@ -1,1 +1,1 @@
-__this is bold but also *italic* __
+**this is bold but also *italic* **
